@@ -7,12 +7,10 @@ To get started with this project, you will need to have Python and Django instal
 
 Code snippet
 pip install -r requirements.txt
-Use code with caution. Learn more
 Once the Python packages have been installed, you can start the development server:
 
 Code snippet
 python manage.py runserver
-Use code with caution. Learn more
 The development server will be started on port 8000. You can access the project at http://localhost:8000.
 
 Features
