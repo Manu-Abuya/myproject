@@ -3,7 +3,7 @@
 Django Web Application with Docker and Kubernetes
 This is a simple web application created using Python Django, Docker and Kubernetes, with automation setup using Jenkins.
 
-Features
+## Features
 Django web application with basic user interface
 Docker containerization for the application
 Automated build and deployment using Jenkins
